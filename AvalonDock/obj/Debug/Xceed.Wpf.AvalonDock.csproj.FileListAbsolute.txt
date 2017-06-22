@@ -1,0 +1,4 @@
+D:\Lessons\WPF\WPFToolkit\AvalonDock\obj\Debug\Xceed.Wpf.AvalonDock.csprojResolveAssemblyReference.cache
+D:\Lessons\WPF\WPFToolkit\AvalonDock\obj\Debug\Xceed.Wpf.AvalonDock.g.resources
+D:\Lessons\WPF\WPFToolkit\AvalonDock\obj\Debug\Xceed.Wpf.AvalonDock.Properties.Resources.resources
+D:\Lessons\WPF\WPFToolkit\AvalonDock\obj\Debug\Xceed.Wpf.AvalonDock.csproj.GenerateResource.Cache
